@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sskavthekar
 - 👀 I’m interested in iOS app development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning AWS Tech Stack
 - 📫 How to reach me sskavthekar@gmail.com / +917798016925
 
 <!---
