@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sskavthekar
-- 👀 I’m interested in iOS app development
+- 👋 Hi, I’m Siddharth Kavthekar, with rich experience in iOS app development with ObjectiveC/Swift.
 - 🌱 I’m currently learning AWS Tech Stack
-- 📫 How to reach me sskavthekar@gmail.com / +917798016925
+- 📫 Reach me @ sskavthekar@gmail.com / +917798016925
 
 <!---
 sskavthekar/sskavthekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
